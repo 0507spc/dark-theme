@@ -1,11 +1,11 @@
 {
-    "name": "darkTheme", /* https://en.wikipedia.org/wiki/Camel_case */
+    "name": "darkTheme",
     "title": "Simple Dark Theme",
     "author": "0507spc",
     "description": "StudIO Dark Theme",
     "image": "./path/to/img", /* All path should start by './', and should point to JPEG or PNG images */
     "version": "SemVer version",
-    "git": "https://github.com/0507spc/dark-theme", /* ex: https://github.com/name/plugin */
+    "git": "https://github.com/0507spc/dark-theme",
     "type": "theme",
     "main": "The css file that will be used",
     "activation": "activation regex",
