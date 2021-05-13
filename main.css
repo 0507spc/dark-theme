@@ -24,7 +24,7 @@
 .cm-bracket,
 .cm-attribute,
 .codemirror-matchingbracket {
-  color: white; /* neon blue */
+  color: black; /* neon blue */
 }
 
 .codemirror-matchingbracket {
@@ -39,7 +39,7 @@
 .cm-string,
 .cm-string-2,
 .cm-qualifier {
-  color: #000000; /* purple */
+  color: #FFF700; /* purple */
 }
 
 .cm-property {
