@@ -3,8 +3,8 @@
     "title": "Simple Dark Theme",
     "author": "0507spc",
     "description": "StudIO Dark Theme",
-    "image": "./path/to/img", /* All path should start by './', and should point to JPEG or PNG images */
-    "version": "SemVer version",
+    "image": "./D08D043C-A90E-4AA4-87F4-6B536040EB8F.jpeg",
+    "version": "1.0.0",
     "git": "https://github.com/0507spc/dark-theme",
     "type": "theme",
     "main": "main.css",
